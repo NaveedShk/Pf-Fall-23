@@ -18,6 +18,14 @@ Task 05:
 
 ![image](https://github.com/NaveedShk/PfFall23/assets/142867585/0de0250d-d756-4acd-baa6-e8596145732a)
 
+Task 06:
+![image](https://github.com/NaveedShk/PfFall23/assets/142867585/0dec14eb-198f-4d77-8eda-bbd756123f84)
+
+Task 07:
+
+![image](https://github.com/NaveedShk/PfFall23/assets/142867585/e3d6ebb8-fd49-4292-80ad-82fdd192eed5)
+
+
 
 
 
