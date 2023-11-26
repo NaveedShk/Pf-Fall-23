@@ -1,3 +1,8 @@
+/*
+Programmer:Sheikh Naveed Azeemi
+Roll No:23K-0003
+Description:the code will use a database of employee data and increase salary based on hours worked
+*/
 #include <stdio.h>
 
 // Define the structure for employee data
