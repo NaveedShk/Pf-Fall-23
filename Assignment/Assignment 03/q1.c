@@ -100,7 +100,7 @@ submatrix(int row, int col, int **arr1, int **arr2){
 
 void student(char name[])
 {
-    printf("Name: Rao Ghulam Mohi Uddin\nStudent Id: ");
+    printf("Name: Sheikh Naveed Azeemi\nStudent Id: ");
     for (int i = 3; i < strlen(name); i++)
         printf("%c", name[i]);
     printf("\n");
